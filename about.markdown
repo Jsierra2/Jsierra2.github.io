@@ -10,6 +10,10 @@ Document things I am currently learning, Teach current things I have a good gras
 find this entertaining maybe even educational, but my biggest goal is just to get out there and share my passion with the world. If you have anything you
 would like me to write about or learn I am very down for all of that.
 
+![Image](/assets/images/IMG_3544.jpg)
+
+
+
 Email: *jpsosa1@proton.me*
 
 
