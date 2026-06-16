@@ -11,7 +11,7 @@ find this entertaining maybe even educational, but my biggest goal is just to ge
 would like me to write about or learn I am very down for all of that.
 
 ![Image](/assets/images/IMG_3544.jpg)
-
+*I am the guy all the way to the left with no hat ( we call it a cover )*
 
 
 Email: *jpsosa1@proton.me*
