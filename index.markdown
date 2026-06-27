@@ -10,7 +10,6 @@ layout: default
 title: Home
 ---
 
-<link rel="stylesheet" href="/assets/css/test.css">
 
 <div class="hero">
   <h1>Packet bros on top</h1>
