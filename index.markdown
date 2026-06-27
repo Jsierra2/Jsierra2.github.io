@@ -7,17 +7,7 @@ title: Home
 ---
 
 
-<div class="hero">
-  <h1>Packet bros on top</h1>
-  <p>Networking • Linux • C • DevOps</p>
 
-  <nav class="top-nav">
-    <a href="/networking/">Networking</a>
-    <a href="/projects/">Projects</a>
-    <a href="/about/">About</a>
-    <a href="/blog/">Blog</a>
-  </nav>
-</div>
 
 <section class="recent-posts">
   <h2>Recent Posts</h2>
