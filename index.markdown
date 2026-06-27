@@ -5,10 +5,6 @@
 layout: default
 title: Home 
 ---
----
-layout: default
-title: Home
----
 
 
 <div class="hero">
