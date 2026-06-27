@@ -16,6 +16,7 @@ title: Home
   <p>Networking • Linux • C • DevOps</p>
 
   <nav class="top-nav">
+    <a href="/networking/">Networking</a>
     <a href="/projects/">Projects</a>
     <a href="/about/">About</a>
     <a href="/blog/">Blog</a>
