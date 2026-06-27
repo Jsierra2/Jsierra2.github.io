@@ -1,0 +1,36 @@
+---
+layout: post
+title: "What I have been working on"
+---
+
+# What is coming
+
+Hello everyone, I am really trying to find more time to dedicate to this blog. In thinking about what post to make I decided that talking about what's in the works
+should work fine. The intention with this is just to keep you on your seats for whats to come.
+
+## Networking
+
+As far is comes to networking, my motivation has been low. Biggest intrest has been in SDWAN and QOS tunning. I do networking day to day with my job in the Marine Corps, so that keeps me
+satisifed there. The networking projects I have are related more with programming which I will address later in this post. I will do a better job of staying on top of posting labs and actual content
+related to planning designing networks, configuring networks, and best practices when it comes to network security. I do have a CML (Cisco Modeling labs) licesnse and I have that running on a server
+blade at home.
+
+## Servers
+
+Servers are in the same boat with networking. I do have four server blades at home with a L3 switch and a raspberry pi (set up as a router) in my homelab. Most of my time recently has been filled 
+with programming. I have talked to some people who don't know where to start with a home lab or don't know what services to run. I will be showing my setup as well as projects I've done and plan to do,
+with the hopes it can provide some inspiration to others who wish to take on the hobby. I will show off / teach some windows server build, dns, security logging and things along those lines.
+More server content is also in the works
+
+## Programming
+
+This has been my primary focus as of recent. I have been learning C for a bit and just implementing things that are intresting to me. I have worked on creating a cisco CLI style repl for linux.
+I don't believe there are many use cases of now, but just a fun way to keep programming. It can run show commands and soon to be implemented a way to configure and build network interfaces on 
+my home system. I have not put more attention to it as I should and I will turn back and keep adding features and thought process along the way.
+I did a perceptron in C, a very minimal program, but in the age of ai this ai that I thought it would be a fun way to "dip my toes in the water".
+As of today and to tie into my QOS/SDWAN intrest I hvae been trying to build a Cisco SLA in C. It'll use network benchmarks to determine best path from two links. More code and a thorough walkthrough of 
+that will be something I will do my best to post more about.
+
+# Final Remarks
+This is just a way for people and myself to track what has been on my mind in terms of projects and what to expect for later content. If there are any questions or comments  my socials and email
+are there for anyone to hit up. 
